@@ -1,5 +1,7 @@
 # Assignment
 for run the file
 type in terminal 
-python api.py
+1.for api program
+  python api.py
+2.for mail program
 python mail.py
