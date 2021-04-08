@@ -1,0 +1,5 @@
+1.i am develop one order system project in which we can maintain all order details.
+whenever we order something then we received one email regarding order details this can achieve through signal which notify the sendmail function
+2.also develop filters for searching data and develop invoice page.
+3.i am facing so much problem one is rendertopdf package for printing invoice for that develop design one html page and render all fields giving one print button for that etc. 
+4.Project link : https://github.com/Vinayak55/DjangoCrm/tree/master/newprintpress15
